@@ -1,12 +1,15 @@
 ## :wave: About me
 <p align="justify">
+    
 **Hi, I’m Vladislav!** Full-stack web developer with 2 years of experience. Before web development I was coding in C#, trying to make games in Unity and writing programs in Python. I am a completely self-taught developer, all my skills and knowledge I got from practice, YouTube, reading documentation, Stack Overflow and researching GitHub repositories of other developers. I am also going to university this year to study for a Bachelor's degree in Applied Computer Science.          
 </p>
-<p>
-**"An hour of practice is better than an hour of theory"** is my golden rule in programming.
-</p>
 
-## Techs I work with
+**"An hour of practice is better than an hour of theory"** is my golden rule in programming.
+<br/>
+<br/>
+
+## :gear: Techs I work with
+<br/>
 <div align="center">
     <span>
         <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
@@ -41,5 +44,7 @@
       <img srcset="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&title_color=C24848&icon_color=FF8787&border_color=FF8787"/>
     </picture>
     
-    ![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=C24848&border_color=FF8787)           
-</div>
+![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=C24848&border_color=FF8787)   
+</div>   
+
+
