@@ -32,19 +32,9 @@
 
 ## :bar_chart: Stats
 <div align="center">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&title_color=C24848&icon_color=FF8787&border_color=FF8787"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img srcset="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&title_color=C24848&icon_color=FF8787&border_color=FF8787"/>
-    </picture>
+<img src="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&title_color=ffffff&icon_color=FF8787&text_color=ffffff&border_color=C24848&bg_color=C24848"/>
     
-![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=C24848&border_color=FF8787)   
+![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=ffffff&icon_color=FF8787&text_color=ffffff&border_color=C24848&bg_color=C24848)   
 </div>   
 
 
