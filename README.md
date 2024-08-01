@@ -34,7 +34,7 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=partysoonxd&show_icons=true&title_color=ffffff&icon_color=FF8787&text_color=ffffff&border_color=C24848&bg_color=C24848"/>
     
-![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=ffffff&icon_color=FF8787&text_color=ffffff&border_color=C24848&bg_color=C24848)   
+![Vladislav's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=partysoonxd&title_color=ffffff&text_color=ffffff&border_color=C24848&bg_color=C24848&layout=compact)
 </div>   
 
 
